@@ -1,6 +1,7 @@
 /* Importado arquivos CSS */
 @import './header.css';
 @import './main.css';
+@import './vantagens.css';
 
 * {
   margin: 0px;
