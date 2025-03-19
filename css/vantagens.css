@@ -1,0 +1,43 @@
+.section-vantagens-bg {
+  background-color: #ffffff;
+  width: auto;
+  height: 350px;
+}
+
+.section-vantagens-bg .vantagens-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: auto;
+  height: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.vantagens-container .vantagens-card {
+  max-width: 600px;
+  height: 200px;
+  list-style: none;
+}
+
+.img-vantagens {
+  display: block;
+  width: 60px;
+  height: 60px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.vantagens-container .vantagens-card h2 {
+  font-size: 1.4rem;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 10px 0px;
+  color: #232a31;
+}
+
+.vantagens-container .vantagens-card p {
+  text-align: center;
+  font-size: 1rem;
+  color: #70747a;
+}
